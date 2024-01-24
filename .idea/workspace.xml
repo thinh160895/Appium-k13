@@ -5,23 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1fd1b550-9fd9-4a2e-8a11-8d8bb627bafd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab/Lab.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab/Lab2/Lab2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab/Lab2/src/Lab2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab/Lab2/src/Lab2_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab/Lab3/Lab3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab/Lab3/src/Lab3_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab/Lab3/src/Lab3_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/appium-k13-Thinh.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lession_2/IfElseStatement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lession_2/OperatorLearning.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lession_2/PrefixPostfix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson_1/VariableLearning.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +21,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="QODANA_PROBLEMS_VIEW_TAB" />
