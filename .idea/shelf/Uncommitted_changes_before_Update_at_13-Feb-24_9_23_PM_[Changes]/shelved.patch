@@ -1,0 +1,38 @@
+Index: Lession/lession_2/IfElseStatement.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/Lession/lession_2/IfElseStatement.java b/Lession/src/lession_2/IfElseStatement.java
+rename from Lession/lession_2/IfElseStatement.java
+rename to Lession/src/lession_2/IfElseStatement.java
+--- a/Lession/lession_2/IfElseStatement.java	
++++ b/Lession/src/lession_2/IfElseStatement.java	
+@@ -3,14 +3,15 @@
+ import java.sql.SQLOutput;
+ 
+ public class IfElseStatement {
+-    public static void  main(String[] args){
++    public static void main(String[] args) {
+         // Comparison Operators: == (same?), != (diff?), >, <, >=, <=
+ 
+         final boolean isHeOnTime = false;
+         System.out.println("1. Dat xe ra");
+         System.out.println("2. Chay ra quan");
+ 
+-        if(isHeOnTime) {
++        if (isHeOnTime) {
+             System.out.println();
++        }
+     }
+ }
+\ No newline at end of file
+diff --git a/Lession/lession_1/VariableLearning.java b/Lession/src/lession_1/VariableLearning.java
+rename from Lession/lession_1/VariableLearning.java
+rename to Lession/src/lession_1/VariableLearning.java
+diff --git a/Lession/lession_2/PrefixPostfix.java b/Lession/src/lession_2/PrefixPostfix.java
+rename from Lession/lession_2/PrefixPostfix.java
+rename to Lession/src/lession_2/PrefixPostfix.java
+diff --git a/Lession/lession_2/OperatorLearning.java b/Lession/src/lession_2/OperatorLearning.java
+rename from Lession/lession_2/OperatorLearning.java
+rename to Lession/src/lession_2/OperatorLearning.java

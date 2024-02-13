@@ -24,7 +24,7 @@ public class VariableLearning {
         boolean myDecision = true;
 
         // byte, short, int, long
-        System.out.println(Short.MAX_VALUE);
+        System.out.println (Short.MAX_VALUE);
 
         // incompatible types: possible conversion from int to byte
         // byte myByte = 32768;
@@ -34,6 +34,7 @@ public class VariableLearning {
         final float PI_NUMBER = 3.14f;
 
         // cannot re-assign constant
-        //final float PI_NUMBER = 3.15f;
+        //final float PI_NUMBER =
+        //new code
     }
 }
