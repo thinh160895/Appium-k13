@@ -4,15 +4,18 @@ public class VariableLearning {
 
     public static void main(String[] args) {
         // naming convention: camelCase (java), snake_case (Python), PascalCase
-        int myInt = 18;
+        // camelCase:
+        int myCurrentAge = 18;
+        // snake_case in Python: int my_current_age = 18;
+        // PascalCase: int MyCurrentAge = 18;
         // Re-asign value
-        myInt = 19;
+        myCurrentAge = 19;
 
         //Re-declaration is NOT allowed
-        //int myInt = 20
+        //int myCurrentAge = 20
 
-        int my_num = 18;
-        int MyValue = 10;
+        int snake_case = 18;
+        int PascalCase = 10;
 
         long myLongNum = 10L;
 
@@ -26,8 +29,10 @@ public class VariableLearning {
         // incompatible types: possible conversion from int to byte
         // byte myByte = 32768;
 
-        // constant
+        // constant: số không thể thay đổi.
+        // constant nên được viết hoa để làm nổi bật.
         final float PI_NUMBER = 3.14f;
+
         // cannot re-assign constant
         //final float PI_NUMBER = 3.15f;
     }
