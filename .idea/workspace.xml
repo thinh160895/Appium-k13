@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1fd1b550-9fd9-4a2e-8a11-8d8bb627bafd" name="Changes" comment="Update src Lab location&#10;Update OperatorLearning.java&#10;Fix bug in IfElseStatement.java">
-      <change afterPath="$PROJECT_DIR$/Lab/src_lab/Lab4/Lab_4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab/src_lab/Lab2/Lab2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Lab/src_lab/Lab2/Lab2.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab/src_lab/Lab3/Lab3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Lab/src_lab/Lab3/Lab3.iml" afterDir="false" />
-    </list>
+    <list default="true" id="1fd1b550-9fd9-4a2e-8a11-8d8bb627bafd" name="Changes" comment="Summit lab4" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -163,7 +158,15 @@
       <option name="project" value="LOCAL" />
       <updated>1708265212036</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Summit lab4">
+      <option name="closed" value="true" />
+      <created>1708269993175</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1708269993175</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -193,7 +196,8 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="update new code lession_1" />
     <MESSAGE value="Update src Lab location&#10;Update OperatorLearning.java&#10;Fix bug in IfElseStatement.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update src Lab location&#10;Update OperatorLearning.java&#10;Fix bug in IfElseStatement.java" />
+    <MESSAGE value="Summit lab4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Summit lab4" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

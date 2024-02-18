@@ -45,14 +45,17 @@ public class Lab_4 {
                 case 2:
                     System.out.println("Maximum value: " + findMaximumValue(randomNumber));
                     break;
+                // Print minimum value
                 case 3:
                     System.out.println("Minimum value: " + findMinimumValue(randomNumber));
                     break;
+                // Find search number
                 case 4:
                     System.out.print("Enter the number to search: ");
                     int searchNumber = scanner.nextInt();
                     searchNumber(randomNumber, searchNumber);
                     break;
+                // Exit program
                 case 5:
                     System.out.println("Exiting... Thank for using our program!");
                     break;
