@@ -64,13 +64,13 @@ public class Lab_4 {
             }
         }
     }
-    private static ArrayList<Integer> generateRandomNumbers(int count) {
-        Random random = new Random();
-        ArrayList<Integer> numbers = new ArrayList<>();
-        for (int i = 0; i < count; i++) {
-            numbers.add(random.nextInt(1000));
+    private static ArrayList<Integer> generateRandomNumbers(int size) {
+        ArrayList<Integer> randomNumbers = new ArrayList<>();
+        Random randomListNumber = new Random();
+        for (int i = 0; i < size; i++) {
+            randomNumbers.add(randomListNumber.nextInt(1000));
         }
-        return numbers;
+        return randomNumbers;
     }
 
     private static int findMaximumValue(ArrayList<Integer> ramdomNumbers) {
