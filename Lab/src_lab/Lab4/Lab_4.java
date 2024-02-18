@@ -68,7 +68,7 @@ public class Lab_4 {
         Random random = new Random();
         ArrayList<Integer> numbers = new ArrayList<>();
         for (int i = 0; i < count; i++) {
-            numbers.add(random.nextInt(10));
+            numbers.add(random.nextInt(1000));
         }
         return numbers;
     }
