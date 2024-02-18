@@ -4,18 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1fd1b550-9fd9-4a2e-8a11-8d8bb627bafd" name="Changes" comment="update new code lession_1">
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="1fd1b550-9fd9-4a2e-8a11-8d8bb627bafd" name="Changes" comment="Update src Lab location&#10;Update OperatorLearning.java&#10;Fix bug in IfElseStatement.java">
+      <change afterPath="$PROJECT_DIR$/Lab/src_lab/Lab4/Lab_4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab/Lab.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Lab/Lab.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab/Lab2/Lab2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Lab/src_lab/Lab2/Lab2.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab/Lab2/src/Lab2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab/src_lab/Lab2/Lab2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab/Lab2/src/Lab2_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab/src_lab/Lab2/Lab2_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab/Lab3/Lab3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Lab/src_lab/Lab3/Lab3.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab/Lab3/src/Lab3_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab/src_lab/Lab3/Lab3_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab/Lab3/src/Lab3_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab/src_lab/Lab3/Lab3_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lession/src/lession_2/IfElseStatement.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lession/src/lession_2/IfElseStatement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lession/src/lession_2/OperatorLearning.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lession/src/lession_2/OperatorLearning.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab/src_lab/Lab2/Lab2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Lab/src_lab/Lab2/Lab2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab/src_lab/Lab3/Lab3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Lab/src_lab/Lab3/Lab3.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,6 +49,7 @@
     "Application.Lab2.executor": "Run",
     "Application.Lab3_1.executor": "Run",
     "Application.Lab3_2.executor": "Debug",
+    "Application.Lab_4.executor": "Debug",
     "Application.OperatorLearning.executor": "Run",
     "Application.PrefixPostfix.executor": "Run",
     "Application.VariableLearning.executor": "Debug",
@@ -79,7 +73,7 @@
       <recent name="C:\Users\ThinhTV\appium-k13-Thinh\Lab\Lab2\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.OperatorLearning">
+  <component name="RunManager" selected="Application.Lab_4">
     <configuration name="Lab2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lab2" />
       <module name="Lab2" />
@@ -101,6 +95,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Lab_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lab4.Lab_4" />
+      <module name="Lab" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lab4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="OperatorLearning" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lession_2.OperatorLearning" />
       <module name="Lession" />
@@ -114,26 +121,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrefixPostfix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lession_2.PrefixPostfix" />
-      <module name="appium-k13-Thinh" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lession_2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lab_4" />
         <item itemvalue="Application.OperatorLearning" />
         <item itemvalue="Application.Lab2" />
         <item itemvalue="Application.Lab3_2" />
         <item itemvalue="Application.Lab3_1" />
-        <item itemvalue="Application.PrefixPostfix" />
       </list>
     </recent_temporary>
   </component>
@@ -161,7 +155,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707836154768</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Update src Lab location&#10;Update OperatorLearning.java&#10;Fix bug in IfElseStatement.java">
+      <option name="closed" value="true" />
+      <created>1708265212036</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1708265212036</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -190,7 +192,8 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="update new code lession_1" />
-    <option name="LAST_COMMIT_MESSAGE" value="update new code lession_1" />
+    <MESSAGE value="Update src Lab location&#10;Update OperatorLearning.java&#10;Fix bug in IfElseStatement.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update src Lab location&#10;Update OperatorLearning.java&#10;Fix bug in IfElseStatement.java" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
