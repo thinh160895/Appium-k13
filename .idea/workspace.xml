@@ -4,16 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1fd1b550-9fd9-4a2e-8a11-8d8bb627bafd" name="Changes" comment="Lab6: summit Lab6_1.java, Lab6_2.java, Lab6_3.java, Lab6_4.java.&#10;Skip Lab6_5.java">
-      <change afterPath="$PROJECT_DIR$/Lab/src_lab/Lab7_1/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab/src_lab/Lab7_1/constractEmployee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab/src_lab/Lab7_1/employeeReport.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab/src_lab/Lab7_1/fullTimeEmployee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab/src_lab/Lab7_2/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lession/src/day_07/Calculatior.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2_13_2024_4_31_PM_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2_13_2024_4_31_PM__Changes_.xml" beforeDir="false" />
+    <list default="true" id="1fd1b550-9fd9-4a2e-8a11-8d8bb627bafd" name="Changes" comment="Lab7: summit Lab7_1.java.">
+      <change afterPath="$PROJECT_DIR$/Lab/src_lab/Lab7_1/FTE.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab/src_lab/Lab7_1/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab/src_lab/Lab7_1/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab/src_lab/Lab7_1/constractEmployee.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab/src_lab/Lab7_1/constractEmployee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab/src_lab/Lab7_1/employeeReport.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab/src_lab/Lab7_1/employeeReport.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab/src_lab/Lab7_1/fullTimeEmployee.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,34 +58,34 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Application.IfElseStatement.executor": "Run",
-    "Application.Lab2.executor": "Run",
-    "Application.Lab3_1.executor": "Run",
-    "Application.Lab3_2.executor": "Debug",
-    "Application.Lab6_1.executor": "Debug",
-    "Application.Lab6_2.executor": "Run",
-    "Application.Lab6_3.executor": "Debug",
-    "Application.Lab6_4.executor": "Debug",
-    "Application.Lab_4.executor": "Debug",
-    "Application.OperatorLearning.executor": "Run",
-    "Application.PrefixPostfix.executor": "Run",
-    "Application.VariableLearning.executor": "Debug",
-    "Application.employeeReport.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "jdk.selected.JAVA_MODULE": "11",
-    "kotlin-language-version-configured": "true",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Application.IfElseStatement.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab3_1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab3_2.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Lab6_1.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Lab6_2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab6_3.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Lab6_4.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Lab_4.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.OperatorLearning.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrefixPostfix.executor&quot;: &quot;Run&quot;,
+    &quot;Application.VariableLearning.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.employeeReport.executor&quot;: &quot;Debug&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;11&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\ThinhTV\appium-k13-Thinh\Lab\src_lab" />
@@ -246,7 +243,15 @@
       <option name="project" value="LOCAL" />
       <updated>1708284228620</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Lab7: summit Lab7_1.java.">
+      <option name="closed" value="true" />
+      <created>1708884776354</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1708884776354</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -280,7 +285,8 @@
     <MESSAGE value="Change Lab4&#10;random number 10 to 1000" />
     <MESSAGE value="Lab4: update class in generateRandomNumbers" />
     <MESSAGE value="Lab6: summit Lab6_1.java, Lab6_2.java, Lab6_3.java, Lab6_4.java.&#10;Skip Lab6_5.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lab6: summit Lab6_1.java, Lab6_2.java, Lab6_3.java, Lab6_4.java.&#10;Skip Lab6_5.java" />
+    <MESSAGE value="Lab7: summit Lab7_1.java." />
+    <option name="LAST_COMMIT_MESSAGE" value="Lab7: summit Lab7_1.java." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

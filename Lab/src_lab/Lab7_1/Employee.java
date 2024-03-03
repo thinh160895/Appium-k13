@@ -8,10 +8,14 @@
 
 package Lab7_1;
 
-public abstract class Employee {
+public class Employee {
     protected double salary;
-    public Employee(double salary) {
+    public Employee() {
+    }
+    public double getSalary() {
+        return salary;
+    }
+    public void setSalary(double salary) {
         this.salary = salary;
     }
-    public abstract double salary();
 }
