@@ -7,4 +7,13 @@
 package Lab7_2;
 
 public class Animal {
+    protected int speed;
+
+    public int getSpeed() {
+        return speed;
+    }
+
+    public int speed() {
+        return 0;
+    }
 }
