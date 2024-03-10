@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1fd1b550-9fd9-4a2e-8a11-8d8bb627bafd" name="Changes" comment="Lab7: summit Lab10_1.java.&#10;using Buider design pattern">
-      <change afterPath="$PROJECT_DIR$/Lab/src_lab/Lab10/lab10_1/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab/src_lab/Lab10/lab10_1/RacingApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab/src_lab/Lab10/lab10_1/RacingController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="1fd1b550-9fd9-4a2e-8a11-8d8bb627bafd" name="Changes" comment="Lab7: summit Lab10_1.java.&#10;using Buider design pattern" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -97,13 +92,13 @@
       <recent name="Lab7_2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.RacingApp">
-    <configuration name="Lab6_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lab6.Lab6_1" />
+  <component name="RunManager" selected="Application.Lab10.lab10_2.employeeReport">
+    <configuration name="Lab10.lab10_2.employeeReport" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lab10.lab10_2.employeeReport" />
       <module name="Lab" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lab6.*" />
+          <option name="PATTERN" value="Lab10.lab10_2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -165,11 +160,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lab10.lab10_2.employeeReport" />
         <item itemvalue="Application.RacingApp" />
         <item itemvalue="Application.RacingControl" />
         <item itemvalue="Application.employeeReport" />
         <item itemvalue="Application.Lab6_4" />
-        <item itemvalue="Application.Lab6_1" />
       </list>
     </recent_temporary>
   </component>
@@ -278,7 +273,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710080810497</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Lab7: summit Lab10_1.java.&#10;using Buider design pattern">
+      <option name="closed" value="true" />
+      <created>1710086008915</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1710086008915</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
