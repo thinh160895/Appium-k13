@@ -11,7 +11,7 @@ public class RacingController {
         List<Animal> eligibleAnimal = getEligibleRacingAnimals(animalList);
 
         // Note for future: animalList: null, empty
-        for (Animal animal : animalList){
+        for (Animal animal : eligibleAnimal){
             if (winner == null || animal.getSpeed() > winner.getSpeed()){
                 winner = animal;
             }
