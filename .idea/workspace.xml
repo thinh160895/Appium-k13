@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1fd1b550-9fd9-4a2e-8a11-8d8bb627bafd" name="Changes" comment="Lab7: summit Lab10_1.java.&#10;using Buider design pattern" />
+    <list default="true" id="1fd1b550-9fd9-4a2e-8a11-8d8bb627bafd" name="Changes" comment="Lab7: summit Lab10_2.java.&#10;rewrite Lab7.1 with abstraction.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab/src_lab/Lab7_2/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab/src_lab/Lab7_2/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab/src_lab/Lab7_2/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab/src_lab/Lab7_2/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab/src_lab/Lab7_2/Horse.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab/src_lab/Lab7_2/Horse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab/src_lab/Lab7_2/Tiger.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab/src_lab/Lab7_2/Tiger.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,36 +57,37 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Application.IfElseStatement.executor": "Run",
-    "Application.Lab2.executor": "Run",
-    "Application.Lab3_1.executor": "Run",
-    "Application.Lab3_2.executor": "Debug",
-    "Application.Lab6_1.executor": "Debug",
-    "Application.Lab6_2.executor": "Run",
-    "Application.Lab6_3.executor": "Debug",
-    "Application.Lab6_4.executor": "Debug",
-    "Application.Lab_4.executor": "Debug",
-    "Application.OperatorLearning.executor": "Run",
-    "Application.PrefixPostfix.executor": "Run",
-    "Application.RacingApp.executor": "Debug",
-    "Application.RacingControl.executor": "Debug",
-    "Application.VariableLearning.executor": "Debug",
-    "Application.employeeReport.executor": "Debug",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "jdk.selected.JAVA_MODULE": "11",
-    "kotlin-language-version-configured": "true",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Application.IfElseStatement.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab10.lab10_2.employeeReport.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Lab2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab3_1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab3_2.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Lab6_1.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Lab6_2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab6_3.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Lab6_4.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Lab_4.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.OperatorLearning.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrefixPostfix.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RacingApp.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.RacingControl.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.VariableLearning.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.employeeReport.executor&quot;: &quot;Debug&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;11&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\ThinhTV\appium-k13-Thinh\Lab\src_lab" />
@@ -92,7 +99,7 @@
       <recent name="Lab7_2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Lab10.lab10_2.employeeReport">
+  <component name="RunManager" selected="Application.RacingControl">
     <configuration name="Lab10.lab10_2.employeeReport" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lab10.lab10_2.employeeReport" />
       <module name="Lab" />
@@ -160,9 +167,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RacingControl" />
         <item itemvalue="Application.Lab10.lab10_2.employeeReport" />
         <item itemvalue="Application.RacingApp" />
-        <item itemvalue="Application.RacingControl" />
         <item itemvalue="Application.employeeReport" />
         <item itemvalue="Application.Lab6_4" />
       </list>
@@ -281,7 +288,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710086008915</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Lab7: summit Lab10_2.java.&#10;rewrite Lab7.1 with abstraction.">
+      <option name="closed" value="true" />
+      <created>1710086543554</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1710086543554</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -319,7 +334,8 @@
     <MESSAGE value="Lab7: update Lab7_1.java." />
     <MESSAGE value="Lab7: summit Lab7_2.java." />
     <MESSAGE value="Lab7: summit Lab10_1.java.&#10;using Buider design pattern" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lab7: summit Lab10_1.java.&#10;using Buider design pattern" />
+    <MESSAGE value="Lab7: summit Lab10_2.java.&#10;rewrite Lab7.1 with abstraction." />
+    <option name="LAST_COMMIT_MESSAGE" value="Lab7: summit Lab10_2.java.&#10;rewrite Lab7.1 with abstraction." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -328,11 +344,6 @@
           <url>file://$PROJECT_DIR$/Lession/lession_2/PrefixPostfix.java</url>
           <line>18</line>
           <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Lab/src_lab/Lab7_2/Tiger.java</url>
-          <line>4</line>
-          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

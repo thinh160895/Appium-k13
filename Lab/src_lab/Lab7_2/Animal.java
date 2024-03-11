@@ -6,10 +6,25 @@
 
 package Lab7_2;
 
+import java.security.SecureRandom;
+
 public class Animal {
     protected int speed;
 
+    public Animal() {
+        this.speed = generateRandomSpeed();
+    }
+
     public int getSpeed() {
         return speed;
+    }
+
+    private int generateRandomSpeed() {
+        SecureRandom random = new SecureRandom();
+        return random.nextInt(getMaxSpeed() + 1);
+    }
+
+    protected int getMaxSpeed() {
+        return 0; // This method will be overridden by subclasses
     }
 }
